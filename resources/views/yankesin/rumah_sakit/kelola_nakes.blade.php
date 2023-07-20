@@ -178,7 +178,8 @@
                                                     </div>
                                                 </div>
                                             </div>
-                                            <table class="dt-paramedis table table-striped table-responsive-lg">
+                                            <!-- Code Changes: Remove table-responsive-lg -->
+                                            <table class="dt-paramedis table table-striped">
                                                 <thead>
                                                     <tr>
                                                         <th>Paramedis</th>
