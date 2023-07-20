@@ -1,0 +1,19 @@
+{
+    "data": [
+      {
+        "action": "<div class='text-center'><a href='#'><button title='Edit' class='btn text-primary p-0 pr-50'><i data-feather='edit' class='font-medium-4'></i></button></a><button title='Delete' type='button' class='delete-data btn p-0'><i data-feather='trash' class='font-medium-4 text-danger'></i></button></div>",
+        "nama": "Allopural 100",
+        "renprod": "<div class='text-center'>6000</div>",
+        "persediaan": "<div class='text-center'>1000</div>",
+        "lafiad": "<div class='text-center'>1500</div>",
+        "lafial": "<div class='text-center'>1500</div>",
+        "lafiau": "<div class='text-center'>1500</div>",
+        "labiovak": "<div class='text-center'>1500</div>",
+        "labiomed": "<div class='text-center'>1500</div>",
+        "total": "<div class='text-center'>5000</div>",
+        "prosentase": "<div class='text-center'>50%</div>",
+        "keluar": "<div class='text-center'>4000</div>",
+        "sisa": "<div class='text-center'>1000</div>"
+      }
+    ]
+}

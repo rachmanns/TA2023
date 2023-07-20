@@ -1,0 +1,32 @@
+{
+  "data": [
+    {
+      "responsive_id": "",
+      "id": 1,
+      "aksi": "",
+      "sebaran": "Non Pelayanan",
+      "kategori": "Dokter Spesialis <br> <div class='badge badge-light-success font-small-4'>Militer</div>",
+      "spesialis": "Spesialis",
+      "nama": "Dr. Emeron May",
+      "matra": "TNI AD",
+      "pangkat": "Kolonel 123123123",
+      "struktural": "Karumkit ABC",
+      "fungsional": "Jabatan Fungsi",
+      "ket": ""
+    },
+    {
+      "responsive_id": "",
+      "id": 1,
+      "aksi": "",
+      "sebaran": "Non Pelayanan",
+      "kategori": "Dokter Spesialis <br> <div class='badge badge-light-success font-small-4'>Militer</div>",
+      "spesialis": "Spesialis",
+      "nama": "Dr. Emeron May",
+      "matra": "TNI AD",
+      "pangkat": "Kolonel 123123123",
+      "struktural": "Karumkit ABC",
+      "fungsional": "Jabatan Fungsi",
+      "ket": ""
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "data": [
+    {
+      "no": "1",
+      "nama": "Amoksilin",
+      "faskes": "<div class='text-center'>45</div>",
+      "fktp_ad": "<div class='text-center'>45</div>",
+      "fktl_ad": "<div class='text-center'>45</div>",
+      "fktp_al": "<div class='text-center'>45</div>",
+      "fktl_al": "<div class='text-center'>45</div>",
+      "fktp_au": "<div class='text-center'>45</div>",
+      "fktl_au": "<div class='text-center'>45</div>",
+      "total": "<div class='text-center'>45</div>"
+    },
+    {
+      "no": "2",
+      "nama": "Allupurinol",
+      "faskes": "<div class='text-center'>45</div>",
+      "fktp_ad": "<div class='text-center'>45</div>",
+      "fktl_ad": "<div class='text-center'>45</div>",
+      "fktp_al": "<div class='text-center'>45</div>",
+      "fktl_al": "<div class='text-center'>45</div>",
+      "fktp_au": "<div class='text-center'>45</div>",
+      "fktl_au": "<div class='text-center'>45</div>",
+      "total": "<div class='text-center'>45</div>"
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+    "data": [
+      {  
+        "no": "1",
+        "status": "<div class='text-center'><div class='badge badge-light-danger font-small-4'>Belum Terdukung</div></div>",
+        "batalyon": "SATGAS YONIF R 301/III",
+        "satgas": "OPS SATGAS KODIM DAN KORAMIL",
+        "berangkat": "MAR-2022",
+        "kembali": "MAR-2022",
+        "personil": "450",
+        "prapas": "450",
+        "dokter": "2",
+        "wat": "2",           
+        "banwat": "2",       
+        "ambulans": "2",       
+        "pratugas": "2",       
+        "satgasops": "2",
+        "serpas": "2",       
+        "kesyon": "2", 
+        "endemik_a": "2",       
+        "endemik_b": "2",
+        "endemik_non": "ENDEMIK",       
+        "ket": "-"
+      },
+      {  
+        "no": "2",
+        "status": "<div class='text-center'><div class='badge badge-light-success font-small-4'>Terdukung</div></div>",
+        "batalyon": "SATGAS YONIF R 301/III",
+        "satgas": "OPS SATGAS KODIM DAN KORAMIL",
+        "berangkat": "MAR-2022",
+        "kembali": "MAR-2022",
+        "personil": "450",
+        "prapas": "450",
+        "dokter": "2",
+        "wat": "2",           
+        "banwat": "2",       
+        "ambulans": "2",       
+        "pratugas": "2",       
+        "satgasops": "2",
+        "serpas": "2",       
+        "kesyon": "2", 
+        "endemik_a": "2",       
+        "endemik_b": "2",
+        "endemik_non": "ENDEMIK",       
+        "ket": "-"
+      }
+    ]
+}

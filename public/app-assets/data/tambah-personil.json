@@ -1,0 +1,11 @@
+{
+    "data": [
+      {       
+        "no": "1",
+        "nama": "Sulaiman",
+        "jabatan": "Lettu",
+        "pangkat": "Lettu",
+        "action": "<div class='text-center'><input type='checkbox' class='checkbox' value='1'/></div>"
+      }
+    ]
+}

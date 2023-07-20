@@ -1,0 +1,16 @@
+{
+    "data": [
+      {        
+        "action": "<div class='text-center'><a href='/tambah_data_posyandu'><button title='Edit' class='btn text-primary p-0 pr-75'><i data-feather='edit' class='font-medium-4'></i></button></a><button title='Delete' type='button' class='delete-data btn p-0'><i data-feather='trash' class='font-medium-4 text-danger'></i></button></div>",
+        "no": "1",
+        "nama": "FKTP Satkes Denma Mabes TNI",
+        "satker": "MABES TNI",
+        "alamat": "Jalan raya Mabes Hankam",
+        "germas": "PROGRAM HIDUP SEHAT HIDUP BERSIH",
+        "posyandu": "PENGISIAN BUKU KIA",
+        "hubungan": "Bidan jejaring",
+        "kadergermas": "2",
+        "kaderposyandu": "2"
+      }
+    ]
+}

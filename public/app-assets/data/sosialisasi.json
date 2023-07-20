@@ -1,0 +1,14 @@
+{
+  "data": [
+    {
+      "tgl": "<div class='text-center'>22 Januari</div>",
+      "no": "<div class='text-center'>23435364</div>",
+      "judul": "PERATURAN BARIS BERBARIS TENTARA NASIONAL INDONESIA",
+      "satuan": "",
+      "kota": "",
+      "jumlah": "",
+      "user": "",
+      "action": "<div class='text-center'><a href='/detail_jadwal_sosialisasi'><button title='Detail' class='btn text-primary p-0 pr-50'><i data-feather='file-text' class='font-medium-4'></i></button></a><a href='/edit_jadwal_sosialisasi'><button title='Edit' class='btn text-primary p-0 pr-50'><i data-feather='edit' class='font-medium-4'></i></button></a><button title='Delete' type='button' class='delete-data btn p-0'><i data-feather='trash' class='font-medium-4 text-danger'></i></button></div>"
+    }
+  ]
+}

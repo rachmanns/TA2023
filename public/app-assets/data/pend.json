@@ -1,0 +1,12 @@
+{
+    "data": [
+      {
+        "no": "1",
+        "judul": "RIKKES SESKO TNI",
+        "tahun": "<div class='text-center'>2021</div>",
+        "tempat": "PUSAT KESEHATAN",
+        "tanggal": "<div class='text-center'>29 Januari 2021</div>",
+        "action": "<div class='text-center'><a href='/hasil_rikkes_pendidikan'><button title='Detail' class='btn text-primary p-0 pr-50'><i data-feather='file-text' class='font-medium-4'></i></button></a><button title='Delete' type='button' class='delete-data btn p-0'><i data-feather='trash' class='font-medium-4 text-danger'></i></button></div>"
+      }
+    ]
+}

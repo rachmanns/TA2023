@@ -1,0 +1,12 @@
+{
+    "data": [
+      {
+        "no": "1",
+        "tgl": "12 Desember 2021",
+        "uraian": "Rikkes Pratugas Satgas OPPD",
+        "jumlah": "Rp12.000.000",
+        "bukti": "<a href='#'><u><i data-feather='paperclip' class='mr-50'></i>Lihat Dokumen</u></a>",
+        "action": "<div class='text-center'><a href='#'><button title='Edit' class='btn text-primary p-0 pr-50'><i data-feather='edit' class='font-medium-4'></i></button></a><button title='Delete' type='button' class='delete-data btn p-0'><i data-feather='trash' class='font-medium-4 text-danger'></i></button></div>"
+      }
+    ]
+}

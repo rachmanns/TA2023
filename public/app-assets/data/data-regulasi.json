@@ -1,0 +1,58 @@
+{
+    "data": [
+      {
+        "no": "1",
+        "nama": "BIDUM",
+        "jumlah": "10",
+        "action": "<div class='text-center'><a href='/detail_regulasi'><button title='Detail' class='btn text-primary p-0 pr-75'><i data-feather='file-text' class='font-medium-4'></i></button></a></div>"
+      },
+      {
+        "no": "2",
+        "nama": "BIDYANKESIN",
+        "jumlah": "8",
+        "action": "<div class='text-center'><a href='#'><button title='Detail' class='btn text-primary p-0 pr-75' onclick='yankesin()'><i data-feather='file-text' class='font-medium-4'></i></button></a></div>"
+      },
+      {
+        "no": "3",
+        "nama": "BIDMATFASKES",
+        "jumlah": "5",
+        "action": "<div class='text-center'><a href='#'><button title='Detail' class='btn text-primary p-0 pr-75'><i data-feather='file-text' class='font-medium-4'></i></button></a></div>"
+      },
+      {
+        "no": "4",
+        "nama": "KERMABAKTIKES",
+        "jumlah": "6",
+        "action": "<div class='text-center'><a href='#'><button title='Detail' class='btn text-primary p-0 pr-75'><i data-feather='file-text' class='font-medium-4'></i></button></a></div>"
+      },
+      {
+        "no": "5",
+        "nama": "TAUD",
+        "jumlah": "3",
+        "action": "<div class='text-center'><a href='#'><button title='Detail' class='btn text-primary p-0 pr-75'><i data-feather='file-text' class='font-medium-4'></i></button></a></div>"
+      },
+      {
+        "no": "6",
+        "nama": "LAFIBIOVAK",
+        "jumlah": "9",
+        "action": "<div class='text-center'><a href='#'><button title='Detail' class='btn text-primary p-0 pr-75'><i data-feather='file-text' class='font-medium-4'></i></button></a></div>"
+      },
+      {
+        "no": "7",
+        "nama": "DUKKESOPS",
+        "jumlah": "1",
+        "action": "<div class='text-center'><a href='#'><button title='Detail' class='btn text-primary p-0 pr-75'><i data-feather='file-text' class='font-medium-4'></i></button></a></div>"
+      },
+      {
+        "no": "8",
+        "nama": "DOBEKKES",
+        "jumlah": "7",
+        "action": "<div class='text-center'><a href='#'><button title='Detail' class='btn text-primary p-0 pr-75'><i data-feather='file-text' class='font-medium-4'></i></button></a></div>"
+      },
+      {
+        "no": "9",
+        "nama": "BANGKES",
+        "jumlah": "4",
+        "action": "<div class='text-center'><a href='#'><button title='Detail' class='btn text-primary p-0 pr-75'><i data-feather='file-text' class='font-medium-4'></i></button></a></div>"
+      }
+    ]
+}

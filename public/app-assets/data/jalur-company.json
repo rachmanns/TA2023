@@ -1,0 +1,16 @@
+{
+    "data": [
+      {
+        "nama": "Mabes TNI",
+        "lokasi": "Lokasi",
+        "foto": "<a href='#'><u>File Foto/Video</u></a>",
+        "personil": "233",
+        "jumlah": "22",
+        "izin": "<div class='text-center'><span class='badge badge-light-success'>Ya</span></div>",
+        "sertifikat": "<div class='text-center'><span class='badge badge-light-danger'>Tidak</span></div>",
+        "puskes": "Paracetamol, Amuprol",
+        "angkatan": "Paracetamol, Amuprol",
+        "action": "<div class='text-center'><a href='/tambah_jalur_company'><button title='Edit' class='btn text-primary p-0 pr-50'><i data-feather='edit' class='font-medium-4'></i></button></a><button title='Delete' type='button' class='delete-data btn p-0'><i data-feather='trash' class='font-medium-4 text-danger'></i></button></div>"
+      }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "data": [
+      {  
+        "no": "1",
+        "pos": "SIMPANG PNG",
+        "personil": "Prada Syawal",
+        "telp": "081240027991",
+        "jml": "1",
+        "bekkes": "-",
+        "ket": "-",
+        "detail": "<div class='text-center'> <a href='#' data-toggle='modal' data-target='#detail'><u> Detail Bekkes </u></a> </div>",
+        "action": "<div class='text-center'><button title='Edit' class='btn text-primary p-0 pr-75'><i data-feather='edit' class='font-medium-4'></i></button></div>"
+      },
+      {  
+        "no": "2",
+        "pos": "KALIMANDOM",
+        "personil": "<div class='form-group form-input'><input type='text' class='form-control'/></div>",
+        "telp": "<div class='form-group form-input'><input type='text' class='form-control'/></div>",
+        "jml": "<div class='form-group form-input'><input type='text' class='form-control'/></div>",
+        "bekkes": "<div class='form-group form-input'><input type='text' class='form-control'/></div>",
+        "ket": "<div class='form-group form-input'><input type='text' class='form-control'/></div>",
+        "detail": "<div class='text-center'> <a href='#' data-toggle='modal' data-target='#detail'><u> Detail Bekkes </u></a> </div>",
+        "action": "<div class='text-center'><button title='Simpan' class='btn text-success p-0 pr-75'><i data-feather='save' class='font-medium-4'></i></button></div>"
+      }
+    ]
+}

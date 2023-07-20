@@ -1,0 +1,24 @@
+{
+    "data": [
+      {  
+        "no": "<div class='text-left'> 1 </div>",
+        "batalyon": "<div class='text-left'> SATGAS YONIF R 301/III </div>",
+        "satgas": "OPS SATGAS KODIM DAN KORAMIL",
+        "berangkat": "Maret 2022",
+        "jml": "450",
+        "prapas": "450",
+        "dokter": "1",
+        "wat": "1",
+        "banwat": "2",
+        "ambulans": "-",
+        "pratugas": "2",
+        "satgasops": "2",           
+        "serpas": "2",       
+        "kesyon": "2",       
+        "endemik_a": "2",       
+        "endemik_b": "2",     
+        "endemik_non": "2",
+        "ket": "T"
+      }
+    ]
+}

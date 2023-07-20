@@ -1,0 +1,11 @@
+{
+    "data": [
+      {
+        "nama": "RS A",
+        "perubahan": "<div class='text-center'><div class='badge badge-light-warning font-small-4 mt-50'>Fasilitas RS</div></div>",
+        "tgl": "<div class='text-center'>22 Januari 2022</div>",
+        "summary": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+        "action": "<div class='text-center'><a data-toggle='modal' data-target='#detail'><button title='Detail' class='btn text-primary p-0 pr-50'><i data-feather='file-text' class='font-medium-4'></i></button></a><button title='Delete' type='button' class='delete-data btn p-0'><i data-feather='trash' class='font-medium-4 text-danger'></i></button></div>"
+      }
+    ]
+}

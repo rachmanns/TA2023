@@ -1,0 +1,30 @@
+{
+  "data": [
+    {
+      "responsive_id": "",
+      "id": 1,
+      "sebaran": "Non Pelayanan",
+      "kategori": "<div class='text-center'>Dokter Spesialis <br> <div class='badge badge-light-success font-small-4'>Militer</div></div>",
+      "spesialis": "",
+      "nama": "",
+      "matra": "",
+      "pangkat": "",
+      "struktural": "",
+      "fungsional": "",
+      "ket": ""
+    },
+    {
+      "responsive_id": "",
+      "id": 2,
+      "sebaran": "Non Pelayanan",
+      "kategori": "<div class='text-center'>Dokter Spesialis <br> <div class='badge badge-light-success font-small-4'>Militer</div></div>",
+      "spesialis": "",
+      "nama": "",
+      "matra": "",
+      "pangkat": "",
+      "struktural": "",
+      "fungsional": "",
+      "ket": ""
+    }
+  ]
+}

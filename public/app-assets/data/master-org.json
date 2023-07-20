@@ -1,0 +1,70 @@
+{
+    "data": [
+      {
+        "no": "1",
+        "nama": "PERSONIL",
+        "status": "-",
+        "edit": "<div class='text-center'><a href='/edit_org'><button title='Edit' class='btn text-primary p-0'><i data-feather='edit' class='font-medium-4'></i></button></a></div>"
+      },
+      {
+        "no": "2",
+        "nama": "ANGGARAN",
+        "status": "-",
+        "edit": "<div class='text-center'><a href='/edit_org'><button title='Edit' class='btn text-primary p-0'><i data-feather='edit' class='font-medium-4'></i></button></a></div>"
+      },
+      {
+        "no": "3",
+        "nama": "LOGISTIK",
+        "status": "-",
+        "edit": "<div class='text-center'><a href='/edit_org'><button title='Edit' class='btn text-primary p-0'><i data-feather='edit' class='font-medium-4'></i></button></a></div>"
+      },
+      {
+        "no": "4",
+        "nama": "BIDYANKESIN",
+        "status": "-",
+        "edit": "<div class='text-center'><a href='/edit_org'><button title='Edit' class='btn text-primary p-0'><i data-feather='edit' class='font-medium-4'></i></button></a></div>"
+      },
+      {
+        "no": "5",
+        "nama": "BIDMATFASKES",
+        "status": "-",
+        "edit": "<div class='text-center'><a href='/edit_org'><button title='Edit' class='btn text-primary p-0'><i data-feather='edit' class='font-medium-4'></i></button></a></div>"
+      },
+      {
+        "no": "6",
+        "nama": "KERMABAKTIKES",
+        "status": "-",
+        "edit": "<div class='text-center'><a href='/edit_org'><button title='Edit' class='btn text-primary p-0'><i data-feather='edit' class='font-medium-4'></i></button></a></div>"
+      },
+      {
+        "no": "7",
+        "nama": "TAUD",
+        "status": "-",
+        "edit": "<div class='text-center'><a href='/edit_org'><button title='Edit' class='btn text-primary p-0'><i data-feather='edit' class='font-medium-4'></i></button></a></div>"
+      },
+      {
+        "no": "8",
+        "nama": "LAFIBIOVAK",
+        "status": "-",
+        "edit": "<div class='text-center'><a href='/edit_org'><button title='Edit' class='btn text-primary p-0'><i data-feather='edit' class='font-medium-4'></i></button></a></div>"
+      },
+      {
+        "no": "9",
+        "nama": "DUKKESOPS",
+        "status": "-",
+        "edit": "<div class='text-center'><a href='/edit_org'><button title='Edit' class='btn text-primary p-0'><i data-feather='edit' class='font-medium-4'></i></button></a></div>"
+      },
+      {
+        "no": "10",
+        "nama": "DOBEKKES",
+        "status": "-",
+        "edit": "<div class='text-center'><a href='/edit_org'><button title='Edit' class='btn text-primary p-0'><i data-feather='edit' class='font-medium-4'></i></button></a></div>"
+      },
+      {
+        "no": "11",
+        "nama": "BANGKES",
+        "status": "-",
+        "edit": "<div class='text-center'><a href='/edit_org'><button title='Edit' class='btn text-primary p-0'><i data-feather='edit' class='font-medium-4'></i></button></a></div>"
+      }
+    ]
+}

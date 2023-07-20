@@ -1,0 +1,22 @@
+{
+    "data": [
+      {
+        "no": "1",
+        "jenis": "Meeting",
+        "tgl": "12 Maret 2020",
+        "tempat": "Brussels",
+        "waktu": "2020",
+        "ket": "Hadir",
+        "status": "Undangan"
+      },
+      {
+        "no": "2",
+        "jenis": "Seminar",
+        "tgl": "12 Maret 2020",
+        "tempat": "Brussels",
+        "waktu": "2020",
+        "ket": "Batal Hadir",
+        "status": "Undangan"
+      }
+    ]
+}

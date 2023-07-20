@@ -1,0 +1,13 @@
+{
+    "data": [
+      {
+        "no": "<div class='text-center'>23435364</div>",
+        "judul": "PERATURAN BARIS BERBARIS TENTARA NASIONAL INDONESIA",
+        "kategori": "<div class='text-center'>Perpang</div>",
+        "tahun": "<div class='text-center'>2022</div>",
+        "abstrak": "Bahwa untuk melaksanakan ketentuan pasal 14 ayat (1) huruf b dan ayat (2) Peraturan",
+        "file": "<div class='text-center'><a href='#'><u><i data-feather='paperclip' class='mr-50'></i>Lihat Dokumen</u></a></div>",
+        "action": "<div class='text-center'><a href='#'><button title='Detail' class='btn text-primary p-0 pr-50'><i data-feather='file-text' class='font-medium-4'></i></button></a><a href='/edit_buku'><button title='Edit' class='btn text-primary p-0 pr-50'><i data-feather='edit' class='font-medium-4'></i></button></a><button title='Delete' type='button' class='delete-data btn p-0'><i data-feather='trash' class='font-medium-4 text-danger'></i></button></div>"
+      }
+    ]
+}

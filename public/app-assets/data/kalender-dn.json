@@ -1,0 +1,40 @@
+{
+    "data": [
+      {  
+        "no": "1",
+        "batalyon": "YONIF 725 WOROAGI",
+        "satgas": "PAMTAS RI - PNG SEKTOR TENGAH",
+        "berangkat": "22 Mei 2022",
+        "pulang": "22 Februari 2023",
+        "jml": "<div class='text-center'><a href='#' data-toggle='modal' data-target='#detail-personil'> <u> 450 </u> </a></div>",
+        "bekkes": "<div class='text-center'><a href='#' data-toggle='modal' data-target='#detail-bekkes'> <u> Detail Bekkes </u> </a></div>",
+        "nota": "<div class='text-center'><a href='#'> <u> Lihat Dokumen Nota Dinas </u> </a></div>",    
+        "status": "<div class='text-center'><span class='badge badge-light-success'> Berangkat </span></div>",    
+        "action": "<div class='text-center'><a href='#'><button title='Edit' class='btn text-primary p-0 pr-75'><i data-feather='edit' class='font-medium-4'></i></button></a><button title='Delete' type='button' class='delete-data btn p-0'><i data-feather='trash' class='font-medium-4 text-danger'></i></button></div>"
+      },
+      {  
+        "no": "2",
+        "batalyon": "YONIF 725 WOROAGI",
+        "satgas": "PAMTAS RI - PNG SEKTOR TENGAH",
+        "berangkat": "22 Mei 2022",
+        "pulang": "22 Februari 2023",
+        "jml": "<div class='text-center'><a href='#' data-toggle='modal' data-target='#detail-personil'> <u> 450 </u> </a></div>",
+        "bekkes": "<div class='text-center'><a href='#' data-toggle='modal' data-target='#detail-bekkes'> <u> Detail Bekkes </u> </a></div>",
+        "nota": "<div class='text-center'><a href='#'> <u> Lihat Dokumen Nota Dinas </u> </a></div>",    
+        "status": "<div class='text-center'><span class='badge badge-light-warning'> Belum Berangkat </span></div>",    
+        "action": "<div class='text-center'><a href='#'><button title='Edit' class='btn text-primary p-0 pr-75'><i data-feather='edit' class='font-medium-4'></i></button></a><button title='Delete' type='button' class='delete-data btn p-0'><i data-feather='trash' class='font-medium-4 text-danger'></i></button></div>"
+      },
+      {  
+        "no": "3",
+        "batalyon": "YONIF 725 WOROAGI",
+        "satgas": "PAMTAS RI - PNG SEKTOR TENGAH",
+        "berangkat": "22 Mei 2022",
+        "pulang": "22 Februari 2023",
+        "jml": "<div class='text-center'><a href='#' data-toggle='modal' data-target='#detail-personil'> <u> 450 </u> </a></div>",
+        "bekkes": "<div class='text-center'><a href='#' data-toggle='modal' data-target='#detail-bekkes'> <u> Detail Bekkes </u> </a></div>",
+        "nota": "<div class='text-center'><a href='#'> <u> Lihat Dokumen Nota Dinas </u> </a></div>",    
+        "status": "<div class='text-center'><span class='badge badge-light-danger'> Gagal </span></div>",    
+        "action": "<div class='text-center'><a href='#'><button title='Edit' class='btn text-primary p-0 pr-75'><i data-feather='edit' class='font-medium-4'></i></button></a><button title='Delete' type='button' class='delete-data btn p-0'><i data-feather='trash' class='font-medium-4 text-danger'></i></button></div>"
+      }
+    ]
+}

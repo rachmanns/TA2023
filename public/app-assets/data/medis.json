@@ -1,0 +1,17 @@
+{
+    "data": [
+      {        
+        "action": "<div class='text-center'><a href='/edit_tenaga_medis'><button title='Edit' class='btn text-primary p-0 pr-50'><i data-feather='edit' class='font-medium-4'></i></button></a><button title='Delete' type='button' class='delete-data btn p-0'><i data-feather='trash' class='font-medium-4 text-danger'></i></button></div>",
+        "faskes": "Non Pelayanan",
+        "kategori": "<div class='text-center'>Dokter Spesialis <br> <div class='badge badge-light-success font-small-4 mt-50'>Militer</div></div>",
+        "spesialis": "Spesialis Jiwa",
+        "nama": "dr. Emeron May, Sp.KJ",
+        "matra": "TNI AD",
+        "pangkat": "<div class='text-center'> Kolonel <br> 123123213124 </div>",
+        "struktural": "Karumkit ABC",
+        "fungsional": "Jabatan Fungsi",
+        "ket": "",
+        "status": "<div class='text-center'><div class='badge badge-light-success font-small-4'>Disetujui</div></div>"
+      }
+    ]
+}

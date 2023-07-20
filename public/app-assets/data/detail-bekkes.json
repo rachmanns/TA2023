@@ -1,0 +1,36 @@
+{
+    "data": [
+      {
+        "no": "1",
+        "nama": "Parasetamol 500 mg",
+        "satuan": "Tablet",
+        "jumlah": "50",
+        "ket": "-",
+        "action": "<div class='text-center'><a href='#'><button title='Edit' class='btn text-primary p-0 pr-50'><i data-feather='edit' class='font-medium-4'></i></button></a><button title='Delete' type='button' class='delete-data btn p-0'><i data-feather='trash' class='font-medium-4 text-danger'></i></button></div>"
+      },
+      {
+        "no": "2",
+        "nama": "Asam Mefenamat 500 mg",
+        "satuan": "Kaplet",
+        "jumlah": "100",
+        "ket": "-",
+        "action": "<div class='text-center'><a href='#'><button title='Edit' class='btn text-primary p-0 pr-50'><i data-feather='edit' class='font-medium-4'></i></button></a><button title='Delete' type='button' class='delete-data btn p-0'><i data-feather='trash' class='font-medium-4 text-danger'></i></button></div>"
+      },
+      {
+        "no": "3",
+        "nama": "Natrium Diklofenak 50 mg",
+        "satuan": "Kaplet",
+        "jumlah": "5",
+        "ket": "-",
+        "action": "<div class='text-center'><a href='#'><button title='Edit' class='btn text-primary p-0 pr-50'><i data-feather='edit' class='font-medium-4'></i></button></a><button title='Delete' type='button' class='delete-data btn p-0'><i data-feather='trash' class='font-medium-4 text-danger'></i></button></div>"
+      },
+      {
+        "no": "4",
+        "nama": "Metampiron kombinasi Injeksi",
+        "satuan": "Kaplet",
+        "jumlah": "3",
+        "ket": "-",
+        "action": "<div class='text-center'><a href='#'><button title='Edit' class='btn text-primary p-0 pr-50'><i data-feather='edit' class='font-medium-4'></i></button></a><button title='Delete' type='button' class='delete-data btn p-0'><i data-feather='trash' class='font-medium-4 text-danger'></i></button></div>"
+      }
+    ]
+}

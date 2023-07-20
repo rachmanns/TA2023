@@ -1,0 +1,12 @@
+{
+    "data": [
+      {
+        "no": "1",
+        "pembayaran": "Ke - 1",
+        "jml_pembayaran": "Rp 100.000",
+        "tgl": "14 Februari 2023",
+        "bukti": "<div class='text-center'><a href='#'><u><i data-feather='paperclip' class='mr-50'></i>Lihat Bukti Bayar</u></a></div>",
+        "action": "<div class='text-center'><a href='#'><button title='Edit' class='btn text-primary p-0 pr-50'><i data-feather='edit' class='font-medium-4'></i></button></a><button title='Delete' type='button' class='delete-data btn p-0'><i data-feather='trash' class='font-medium-4 text-danger'></i></button></div>"
+      }
+    ]
+}

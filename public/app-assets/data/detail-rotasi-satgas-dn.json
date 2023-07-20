@@ -1,0 +1,17 @@
+{
+    "data": [
+      {       
+        "action": "<div class='text-center'><a href='/detail_personil_rotasi_dn'><button title='Personil' class='btn text-primary p-0 pr-50'><i data-feather='user' class='font-medium-4'></i></button></a><a href='/edit_data_rotasi_dn'><button title='Edit' class='btn text-primary p-0 pr-50'><i data-feather='edit' class='font-medium-4'></i></button></a><button title='Delete' type='button' class='delete-data btn p-0'><i data-feather='trash' class='font-medium-4 text-danger'></i></button></div>",
+        "no": "1",
+        "nama": "SIMPANG PNG",
+        "pers": "Prada Syawal",
+        "personil": "450",
+        "telp": "081240027991",
+        "prapas": "450",
+        "dokter": "1",
+        "wat": "5",
+        "banwat": "10",
+        "ambulans": "1"
+      }
+    ]
+}

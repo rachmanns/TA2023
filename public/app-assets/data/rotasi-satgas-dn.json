@@ -1,0 +1,12 @@
+{
+    "data": [
+      {
+        "no": "1",
+        "batalyon": "YONIF 725 WOROAGI",
+        "satgas": "PAMTAS RI - PNG SEKTOR TENGAH",
+        "berangkat": "11 Agustus 2022",
+        "kembali": "11 Desember 2022",
+        "action": "<div class='text-center'><a href='/detail_rotasi_satgas_dn'><button title='Detail' class='btn text-primary p-0 pr-50'><i data-feather='file-text' class='font-medium-4'></i></button></a><a href='/tambah_rotasi_satgas_dn'><button title='Edit' class='btn text-primary p-0 pr-50'><i data-feather='edit' class='font-medium-4'></i></button></a><button title='Delete' type='button' class='delete-data btn p-0'><i data-feather='trash' class='font-medium-4 text-danger'></i></button></div>"
+      }
+    ]
+}

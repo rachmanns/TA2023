@@ -1,0 +1,10 @@
+{
+    "data": [
+      {  
+        "tahun": "2023",
+        "total_pusat": "Rp100.000.000",
+        "total_daerah": "Rp100.000.000",   
+        "action": "<div class='text-center'><a href='/bidum/anggaran/realisasi'><button title='Detail' class='btn text-primary p-0 pr-75'><i data-feather='file-text' class='font-medium-4'></i></button></a><button title='Delete' type='button' class='delete-data btn p-0'><i data-feather='trash' class='font-medium-4 text-danger'></i></button></div>"
+      }
+    ]
+}

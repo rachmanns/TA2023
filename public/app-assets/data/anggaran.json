@@ -1,0 +1,11 @@
+{
+    "data": [
+      {
+        "tahun": "<div class='text-center'>2021</div>",
+        "judul": "Anggaran Bekkes",
+        "kategori": "PA PK GAKES",
+        "dok": "<div class='text-center'><a href='#'><u><i data-feather='paperclip' class='mr-50'></i>Lihat Dokumen</u></a></div>",
+        "action": "<div class='text-center'><a data-toggle='modal' data-target='#edit'><button title='Edit' class='btn text-primary p-0 pr-50'><i data-feather='edit' class='font-medium-4'></i></button></a><button title='Delete' type='button' class='delete-data btn p-0'><i data-feather='trash' class='font-medium-4 text-danger'></i></button></div>"
+      }
+    ]
+}

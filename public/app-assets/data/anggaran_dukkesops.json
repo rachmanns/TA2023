@@ -1,0 +1,12 @@
+{
+    "data": [
+      {
+        "no": "1",
+        "uraian": "Rikkes Pratugas Satgas OPPD",
+        "sumber": "KP",
+        "jumlah": "Rp12.000.000",
+        "realisasi": "Rp12.000.000",
+        "action": "<div class='text-center'><a href='/detail_daftar_anggaran'><button title='Detail' class='btn text-primary p-0'><i data-feather='file-text' class='font-medium-4'></i></button></a></div>"
+      }
+    ]
+}

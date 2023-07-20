@@ -1,0 +1,12 @@
+{
+    "data": [
+      {       
+        "action": "<div class='text-center'><input type='checkbox' class='checkbox mr-50' value='1'/></div>",
+        "batalyon": "SATGAS YONIF R 301/III",
+        "satgas": "OPS SATGAS KODIM DAN KORAMIL",
+        "berangkat": "Mar-2023",
+        "kembali": "Mar-2023",
+        "personil": "450"
+      }
+    ]
+}
