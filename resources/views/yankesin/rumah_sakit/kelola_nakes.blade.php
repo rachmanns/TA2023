@@ -116,7 +116,8 @@
                                                     </div>
                                                 </div>
                                             </div>
-                                            <table class="dt-nakes table table-striped table-responsive-lg">
+                                            <!-- Code Changes: Remove table-responsive-lg -->
+                                            <table class="dt-nakes table table-striped">
                                                 <thead>
                                                     <tr>
                                                         <th>Medis</th>
