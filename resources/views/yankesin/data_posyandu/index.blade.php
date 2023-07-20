@@ -29,10 +29,12 @@
         <div class="content-header row">
             <div class="content-header-left col-md-12 col-12 mb-1">
                 <div class="row breadcrumbs-top">
-                    <div class="col-md-7">
+                    <!-- Code Changes: split breakpoints into lg & md -->
+                    <div class="col-lg-7 col-md-6">
                         <h2 class="content-header-title float-left">Data Posyandu</h2>
                     </div>
-                    <div class="col-md-5 text-right">
+                    <!-- Code Changes: split breakpoints into lg & md -->
+                    <div class="col-lg-5 col-md-6 text-right">
                         <button class="btn btn-outline-primary mr-75" data-toggle='modal' data-target='#import'> Import
                             excel</button>
                         {{-- Modal Import --}}

@@ -45,7 +45,8 @@
                     <div class="row">
                         <div class="col-12">
                             <div class="card">
-                                <table class="table table-striped table-responsive-xl" id="pengajuan">
+                                <!-- Code Changes: Remove table-responsive-xl -->
+                                <table class="table table-striped" id="pengajuan">
                                     <thead>
                                         <tr>
                                             <th>No</th>
