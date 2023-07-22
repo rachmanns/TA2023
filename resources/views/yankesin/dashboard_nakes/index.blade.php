@@ -23,6 +23,44 @@
         .text-warning:hover {
             color: #3085d6 !important;
         }
+
+        /* Code Changes: Add style override modal class sizing */
+
+        @media (min-width: 576px) {
+            .modal-dialog {
+                max-width:500px;
+                margin: 1.75rem auto
+            }
+
+            .modal-dialog-scrollable {
+                max-height: calc(100% - 3.5rem)
+            }
+
+            .modal-dialog-scrollable .modal-content {
+                max-height: calc(100vh - 3.5rem)
+            }
+
+            .modal-dialog-centered {
+                min-height: calc(100% - 3.5rem)
+            }
+
+            .modal-dialog-centered::before {
+                height: calc(100vh - 3.5rem);
+                height: -webkit-min-content;
+                height: -moz-min-content;
+                height: min-content
+            }
+
+            .modal-sm {
+                max-width: 400px
+            }
+
+            
+            .modal-lg,
+            .modal-xl {
+                max-width: 800px; } 
+        }
+
     </style>
 @endsection
 
