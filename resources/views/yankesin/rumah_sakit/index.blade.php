@@ -131,25 +131,22 @@
                     <div class="row mt-2">
                         <div class="col-12">
                             <div class="card">
-                                <div class="card-datatable">
-                                    <div class="table-responsive">
-                                        <table class="table table-striped" id="table-rs">
-                                            <thead>
-                                                <tr>
-                                                    <th>No.</th>
-                                                    <th class="text-center">Aksi</th>
-                                                    <th style="min-width: 200px;">Nama Faskes</th>
-                                                    <th>Matra</th>
-                                                    <th>Kotama</th>
-                                                    <th>Satker/Subsatker</th>
-                                                    <th>Tipe Faskes</th>
-                                                    <th style="min-width: 200px;">Alamat</th>
-                                                    <th>Nomor Izin Operasional</th>
-                                                </tr>
-                                            </thead>
-                                        </table>
-                                    </div>
-                                </div>
+                                <!-- Code Changes: Remove unused deep elements -->
+                                <table class="table table-striped" id="table-rs">
+                                    <thead>
+                                        <tr>
+                                            <th>No.</th>
+                                            <th class="text-center">Aksi</th>
+                                            <th style="min-width: 200px;">Nama Faskes</th>
+                                            <th>Matra</th>
+                                            <th>Kotama</th>
+                                            <th>Satker/Subsatker</th>
+                                            <th>Tipe Faskes</th>
+                                            <th style="min-width: 200px;">Alamat</th>
+                                            <th>Nomor Izin Operasional</th>
+                                        </tr>
+                                    </thead>
+                                </table>
                             </div>
                         </div>
                     </div>
@@ -172,8 +169,9 @@
             table = $('#table-rs').DataTable({
                 destroy: true,
                 processing: true,
-                // scrollX: true,
                 ajax: "{{ url('yankesin/rumah-sakit/list') }}?" + params,
+                // Code Changes: Add scrollX to assign true
+                scrollX: true,
                 columns: [{
                         data: 'DT_RowIndex',
                         className: 'text-center',
