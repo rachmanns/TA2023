@@ -48,7 +48,10 @@
                 </div>
             </div>
             <div class="content-body">
-                <div id="orgChart"></div>
+                <!-- Code Changes: Add Style for horizontal scroll & class card for container -->
+                <div class="card" style="overflow-x: auto;">
+                    <div id="orgChart"></div>
+                </div>
                 <div id="consoleOutput">
                 </div>
             </div>
