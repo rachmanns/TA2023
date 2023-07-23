@@ -55,7 +55,8 @@
             <div class="content-body">
                  <!-- Line Chart Card -->
                 <div class="row match-height">
-                    <div class="col-lg-4 col-md-6 col-12">
+                    <!-- Code Changes: remove class col-md-6 -->
+                    <div class="col-lg-4 col-12">
                         <div class="card">
                             <div class="row justify-content-center">
                                 <div class="media pt-2">
@@ -197,7 +198,7 @@
                             <div class="card-header justify-content-center pb-0">
                                 <h3 class="font-weight-bolder text-center">Ruang Rawat Khusus</h3><br>    
                             </div>         
-                            <div class="card-header ml-2">               
+                            <div class="card-header">               
                                 <div class="row">
                                     <div class="col-12">
                                         <div class="meetup-header d-flex align-items-center">
