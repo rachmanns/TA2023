@@ -621,7 +621,8 @@
                                                             <h4 class="font-weight-bolder">Fasilitas Penunjang Diagnostik</h4>    
                                                             <p class="text-muted mb-1">Mohon pilih fasilitas penunjang diagnostik  yang tersedia di Faskes. (Abaikan jika tidak ada)</p>
                                                         </td>
-                                                        <td class="border-top-0 text-right pr-1 pt-0" style="min-width: 300px;">
+                                                        <!-- Code Changes: Remove style  style="min-width: 300px;" -->
+                                                        <td class="border-top-0 text-right pr-1 pt-0">
                                                             <button class="btn btn-outline-primary" data-toggle="modal" data-target="#diagnostik">Tambah Fasilitas</button>
                                                             
                                                             <div class="modal fade text-left" id="diagnostik" tabindex="-1" role="dialog" aria-labelledby="myModalLabel18" aria-hidden="true">
